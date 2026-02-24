@@ -22,4 +22,4 @@ while(playerInput != random){
   }
   playerInput = prompt("Please guess again: ")
 }
-console.log("Congratulations", random)
+console.log("Congratulations, you got the number:", random)
